@@ -1,7 +1,8 @@
 ﻿#  Vim同时进行多行注释
 
 标签(空格分隔)： CentOS Vi/Vim 多行注释
-
+--------------
+我的markdown原文链接:https://www.zybuluo.com/smartZhou/note/1322602
 ---
 在使用**vi/vim**编辑器对代码或者配置文件编辑的时候，我们经常会需要对多行添加注释或者删除多行的注释。 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：
 
